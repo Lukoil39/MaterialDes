@@ -14,11 +14,9 @@
         <activity android:name=".BottomActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity android:name=".SnackActivity">
         </activity>
         <activity android:name=".TextActivity">

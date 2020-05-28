@@ -20,5 +20,4 @@
             android:hint="@string/text" />
 
     </com.google.android.material.textfield.TextInputLayout>
-
 </LinearLayout>
