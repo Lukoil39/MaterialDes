@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HomeOne</string>
+    <string name="text">text</string>
+    <string name="bottom_sheet_content">bottom_sheet_content</string>
+    <string name="bottom_sheet_peek">bottom_sheet_peek</string>
+    <string name="button">button</string>
 </resources>
