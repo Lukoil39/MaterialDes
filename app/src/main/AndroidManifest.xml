@@ -22,8 +22,6 @@
         <activity android:name=".SnackActivity">
         </activity>
         <activity android:name=".TextActivity">
-
         </activity>
     </application>
-
 </manifest>
